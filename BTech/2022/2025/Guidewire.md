@@ -4,7 +4,7 @@
 
 # CYS - Hackathon Tracker -  2022 B.Tech CSE (CYS) 
 
-## Codeathon - Thiran 2025
+## Guidewire DEVTrails University Hackathon
 
 |    Hackathon Name   |           Date           |         Team Name      |         Team Members        |     Guide |    Level Achieved       |  
 |:-------------------:|:------------------------:|:----------------------:|:---------------------------:|:-----------------:|:---------------:|
@@ -47,5 +47,6 @@ The competition saw participation from over 150 teams nationwide. After clearing
     <img src="../images/2025/Guidewire_Mathrubhumi.jpeg" alt="guide" width=445 />
     <img src="../images/2025/Guidewire_Malayala_Manorama.jpeg" alt="guide" width=445 />
 </p>
+
 
 
