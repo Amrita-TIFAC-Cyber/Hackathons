@@ -9,8 +9,11 @@
 
 ### 2025 
 
-|    Hackathon Name   |           Date           |         Team Name      |         Team Members        |     Guide |    Level Achieved       |
-|:-------------------:|:------------------------:|:----------------------:|:---------------------------:|:-----------------:|:------------------------:|
-| Guidewire <br/> DEVTrails University Hackathon  |  15th May 2025 |  [ClusterBusters - KubeBoom](https://github.com/CS-Amritha/DT) | Adithya N.S <br/> Anaswara Suresh M.K. <br/> Avi Nair <br/>  C S Amritha <br/> Sruthi R | NA | ![](https://img.shields.io/badge/-Won_First-gold) | 
+|    Hackathon Name   |           Date           |         Team Name      |         Team Members        |     Guide |    Level Achieved       | Report |
+|:-------------------:|:------------------------:|:----------------------:|:---------------------------:|:-----------------:|:------------------------:|:---------------|
+| Guidewire <br/> DEVTrails University Hackathon  |  15th May |  [ClusterBusters - KubeBoom](https://github.com/CS-Amritha/DT) | Adithya N.S <br/> Anaswara Suresh M.K. <br/> Avi Nair <br/>  C S Amritha <br/> Sruthi R | NA | ![](https://img.shields.io/badge/-Won_First-gold) | [Click Here](2025/Guidewire.md) |
+| Codeathon - Thiran | 21st Feb | [MetaFour]() | Adithya N.S <br/> Anaswara Suresh M.K. <br/> C S Amritha <br/> Sruthi R | NA | 2nd Round |  [Click Here](2025/Codeathon_Thiran) | 
+
+
 
 
